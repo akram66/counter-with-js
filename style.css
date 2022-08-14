@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
+.counter{
+    font-weight: bold;
+    margin-top: 10px;
+}
+button{
+    padding: 10px;
+    border-radius: 4px;
+}
+button:hover{
+    color:brown;
+    border:2px solid rgb(59, 44, 44);
+    border-radius: 3px;
+   font-size: large;
+}
